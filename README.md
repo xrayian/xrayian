@@ -1,5 +1,6 @@
 # Rayian Mahi :technologist:
 ![Follow](https://img.shields.io/github/followers/xrayian.svg?style=social&label=Follow&maxAge=2592000)
+
 ## Introduction :wave:
 I'm Rayian Mahi, a passionate and driven developer and designer with a love for technology! Currently pursuing a Computer Science and Engineering (CSE) degree at United International University, I'm on a mission to push the boundaries of innovation and excellence. As the Director of Digital Innovation at Prologic Software, I lead a talented team in crafting cutting-edge solutions for the digital landscape. Together, we create transformative experiences that redefine how businesses and users interact with technology. :rocket:
 
