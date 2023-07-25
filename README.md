@@ -11,7 +11,7 @@ I'm Rayian Mahi, a passionate and driven developer and designer with a love for 
 - Cloud Computing: ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?&style=flat-square&logo=Amazon-AWS&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?&style=flat-square&logo=Netlify&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?&style=flat-square&logo=Google-Cloud&logoColor=white)
 - Design Tools: ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?&style=flat-square&logo=Adobe-Illustrator&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?&style=flat-square&logo=Figma&logoColor=white)
 
-### Stats
+### Stats 📈
 
 ![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xrayian&theme=blue-green) 
 ![Stats](https://github-readme-stats.vercel.app/api?username=xrayian&theme=blue-green)
