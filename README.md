@@ -5,7 +5,7 @@ I'm Rayian Mahi, a passionate and driven developer and designer with a love for 
 
 ### Experience & Skills :computer:
 - Programming Languages: ![Python](https://img.shields.io/badge/Python-%233776AB.svg?&style=flat-square&logo=Python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=flat-square&logo=JavaScript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?&style=flat-square&logo=TypeScript&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?&style=flat-square&logo=Dart&logoColor=white)
-- Front-End Frameworks: ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?&style=flat-square&logo=Flutter&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?&style=flat-square&logo=Vue.js&logoColor=white) ![Nuxt.js](https://img.shields.io/badge/Nuxt-00C58E.svg?&style=flat-square&logo=Nuxt.js&logoColor=white)
+- Front-End Frameworks: ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?&style=flat-square&logo=Flutter&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-%234FC08D.svg?&style=flat-square&logo=Vue.js&logoColor=white) ![Nuxt.js](https://img.shields.io/badge/Nuxt-00C58E.svg?&style=flat-square&logo=Nuxt.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 - Back-End Frameworks: ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?&style=flat-square&logo=Node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-%23404d59.svg?&style=flat-square&logo=Express&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?&style=flat-square&logo=Laravel&logoColor=white)
 - Databases: ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?&style=flat-square&logo=MySQL&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?&style=flat-square&logo=Firebase&logoColor=black) ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=flat-square&logo=MongoDB&logoColor=white)
 - Cloud Computing: ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?&style=flat-square&logo=Amazon-AWS&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?&style=flat-square&logo=Netlify&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?&style=flat-square&logo=Google-Cloud&logoColor=white)
@@ -13,9 +13,12 @@ I'm Rayian Mahi, a passionate and driven developer and designer with a love for 
 
 ### Stats 📈
 
-![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xrayian&theme=blue-green) 
-![Stats](https://github-readme-stats.vercel.app/api?username=xrayian&theme=blue-green)
-
+<a href='#'>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xrayian&theme=vue&layout=compact&langs_count=8&card_width=320" />
+</a>
+<a href='#'>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=xrayian&theme=vue&show_icons=true&rank_icon=github" />
+</a>
 
 ### Recent Projects :clipboard:
 - :link: **Incoglog.com**: A platform for anonymous logs and private thoughts.
