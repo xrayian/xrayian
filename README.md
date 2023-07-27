@@ -15,10 +15,10 @@ I'm Rayian Mahi, a passionate and driven developer and designer with a love for 
 ### Stats 📈
 
 <a href='#'>
-  <img height=200 align="center" src="https://github-readme-stats-blush-psi-17.vercel.app/api/top-langs?username=xrayian&theme=vue-dark&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats-blush-psi-17.vercel.app/api/top-langs?username=xrayian&theme=vue-dark&layout=compact&langs_count=8&card_width=320&count_private=true" />
 </a>
 <a href='#'>
-  <img height=200 align="center" src="https://github-readme-stats-blush-psi-17.vercel.app/api?username=xrayian&theme=vue-dark&show_icons=true&rank_icon=github" />
+  <img height=200 align="center" src="https://github-readme-stats-blush-psi-17.vercel.app/api?username=xrayian&theme=vue-dark&show_icons=true&rank_icon=github&count_private=true" />
 </a>
 
 ### Recent Projects :clipboard:
