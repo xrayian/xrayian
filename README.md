@@ -30,7 +30,6 @@ I'm Rayian Mahi, a passionate and driven developer and designer with a love for 
 ## Get in Touch :email:
 Let's collaborate on exciting projects! :sparkles:
 - Location: Dhaka, Bangladesh :round_pushpin:
-- Phone: +880 1771 136 465, +880 1870 410 435 :telephone_receiver:
 - Email: rbsmahi@gmail.com :envelope:
 
 Looking forward to hearing from you! :smiley:
