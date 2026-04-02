@@ -1,0 +1,114 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/xrayian/kotlin-weather-checker/commit/a27d635a812022baf3544f0e0aedd8a39471002c\"><strong>a</strong>27d635a812022baf3544f0e0aedd8a39471002c</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "ab-commit",
+    "tier": 2,
+    "desc": "One of my commit sha starts with \"ab\".",
+    "body": "- <a href=\"https://github.com/xrayian/study-progress-tracker/commit/ab8dcef5fbe9e14621714e04ad17923e9b63ee97\"><strong>ab</strong>8dcef5fbe9e14621714e04ad17923e9b63ee97</a>",
+    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
+  },
+  {
+    "id": "cosmetic-commit",
+    "tier": 0,
+    "desc": "I made cosmetic commit.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/xrayian/study-progress-tracker/commit/99a1e4ebbac1897197c7182cd1dbe1ffe75cfc79\">99a1e4e</a>",
+    "image": "https://my-badges.github.io/my-badges/cosmetic-commit.png"
+  },
+  {
+    "id": "covid-19",
+    "tier": 0,
+    "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/covid-19.png"
+  },
+  {
+    "id": "epic-commit",
+    "tier": 0,
+    "desc": "I made an epic commit with a message over 500 chars.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/xrayian/mad_project/commit/c0bece259c01a966513b88e06e31bff85d4feb03\">c0bece2</a>\n- <a href=\"https://github.com/xrayian/mad_project/commit/ee6d48ee4fee300bf3725f6f32c376bed8c0b6b5\">ee6d48e</a>\n- <a href=\"https://github.com/xrayian/mad_project/commit/047c509ff466864b256558c3818daa7c1131fcf9\">047c509</a>\n- <a href=\"https://github.com/xrayian/mad_project/commit/1d3ad15fedf6221b3557a0fd67e69867c6aaa1f1\">1d3ad15</a>\n- <a href=\"https://github.com/xrayian/dbms_project/commit/e13070c200bbcd166a06f6264c77d1b35d329f2c\">e13070c</a>",
+    "image": "https://my-badges.github.io/my-badges/epic-commit.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"added\".",
+    "body": "My favorite commit message words are:\n\n1. added (used 58 times)\n2. updated (used 47 times)\n3. update (used 43 times)\n4. add (used 36 times)\n5. readme.md (used 33 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "fix-3",
+    "tier": 2,
+    "desc": "I did 3 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/xrayian/statistics_proj/commit/c02b929aa0c885372d9cc867e7d91e5f8887a897\">c02b929</a>: fix: Enhance mobile responsiveness and canvas handling for charts\n- <a href=\"https://github.com/xrayian/statistics_proj/commit/d51b777937b2fec551d8b6af147b5dfc73e8f6a9\">d51b777</a>: fix: Improve chart responsiveness and layout for better mobile experience\n- <a href=\"https://github.com/xrayian/statistics_proj/commit/f11a11ba7ae3c8307146c5871c23ac680e46e460\">f11a11b</a>: fix: Update header and footer content for clarity and attribution",
+    "image": "https://my-badges.github.io/my-badges/fix-3.png"
+  },
+  {
+    "id": "github-anniversary-5",
+    "tier": 0,
+    "desc": "I joined GitHub 5 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-5.png"
+  },
+  {
+    "id": "may-the-4th",
+    "tier": 0,
+    "desc": "May the 4th be with you!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/xrayian/book-library-manager-c/commit/66ba4f17c48e014079b3c8e6368c601d1a10e418\">66ba4f1</a>\n- <a href=\"https://github.com/xrayian/book-library-manager-c/commit/4042ce0a1860d686cd61941da50a9571204ab8a4\">4042ce0</a>\n- <a href=\"https://github.com/xrayian/book-library-manager-c/commit/bad54b0383f2825d5b5d147b6b0cf4e90fb5b4ee\">bad54b0</a>\n- <a href=\"https://github.com/xrayian/book-library-manager-c/commit/0cdb3e043bee62b57556a1dc5e3800e2ffbdd7d9\">0cdb3e0</a>\n- <a href=\"https://github.com/xrayian/book-library-manager-c/commit/6ad63ba775beb99bccedef0ec18d97742cb759a1\">6ad63ba</a>\n- <a href=\"https://github.com/xrayian/book-library-manager-c/commit/de8078545fb574c87d36b60790e02cf98197755a\">de80785</a>",
+    "image": "https://my-badges.github.io/my-badges/may-the-4th.png"
+  },
+  {
+    "id": "polite-coder",
+    "tier": 0,
+    "desc": "I am a polite coder.",
+    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/ismail9k/vue3-carousel/issues/190\">#190</a>: Carousel now sticks to cursor after 0.1.4\n- <a href=\"https://github.com/antfu-collective/vite-ssg/issues/330\">#330</a>: My production builds are going to dev mode\n- <a href=\"https://github.com/harlan-zw/nuxt-seo/issues/31\">#31</a>: adding the `extends:` property in `nuxt.config.ts` file throws error in modules `Type instantiation is excessively deep and possibly infinite.`",
+    "image": "https://my-badges.github.io/my-badges/polite-coder.png"
+  },
+  {
+    "id": "science-fiction-day",
+    "tier": 0,
+    "desc": "I committed on Isaac Asimov's birthday / National Science Fiction Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/xrayian/byte_bank_aoop_java/commit/e842598407068a3c76df122ca7d9113f2a033634\">e842598</a>",
+    "image": "https://my-badges.github.io/my-badges/science-fiction-day.png"
+  },
+  {
+    "id": "this-is-fine",
+    "tier": 0,
+    "desc": "I merged a PR with failing checks",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/xrayian/dbms_project/pull/3\">#3</a>: Feat impl notification",
+    "image": "https://my-badges.github.io/my-badges/this-is-fine.png"
+  },
+  {
+    "id": "sleepy-coder",
+    "tier": 0,
+    "desc": "I am a sleepy coder.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/xrayian/ielts-support-suite/commit/2f5c04d4f78064e3696760eb0a44589b1890762a\">2f5c04d</a>\n- <a href=\"https://github.com/xrayian/xrayian/commit/09805ab8cd41f6a953559189ee8a7a3574535c25\">09805ab</a>\n- <a href=\"https://github.com/xrayian/Life-Simulator/commit/0cf9856f650c5745db70aba4f38823bae10232d7\">0cf9856</a>\n- <a href=\"https://github.com/xrayian/byte_bank_aoop_java/commit/561a0320519d40a74f48da947644a0958cc603a4\">561a032</a>\n- <a href=\"https://github.com/xrayian/byte_bank_aoop_java/commit/a2144760f097c420d2621af892a58699ca1a5df7\">a214476</a>\n- <a href=\"https://github.com/xrayian/scare-flutter/commit/741c36acd4d8801fe4f57faf887fca07ba0f8a89\">741c36a</a>",
+    "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
+  },
+  {
+    "id": "morning-commits",
+    "tier": 0,
+    "desc": "I commit in the morning.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/xrayian/byte_bank_aoop_java/commit/320505103e7ee4ce66a8ea2cac6e8e223275dffa\">3205051</a>\n- <a href=\"https://github.com/xrayian/byte_bank_aoop_java/commit/5960c03142d7d8da9cd5db5981346098c989bafa\">5960c03</a>",
+    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/xrayian/swe_project_backend/commit/0e0f149eab2dafee9683d52a2dfd192e486b12e7\">0e0f149</a>\n- <a href=\"https://github.com/xrayian/swe_project_backend/commit/1b00d4a3bef3d5b5d648f5cc3cbee7561c98b4e1\">1b00d4a</a>\n- <a href=\"https://github.com/xrayian/swe_project_backend/commit/2508c54c62c9304fc09ea23f021ed782de95f460\">2508c54</a>\n- <a href=\"https://github.com/xrayian/mad_project/commit/bd3eb81890614c9d8e98ec99589f354f24e95481\">bd3eb81</a>\n- <a href=\"https://github.com/xrayian/mad_project/commit/047c509ff466864b256558c3818daa7c1131fcf9\">047c509</a>\n- <a href=\"https://github.com/xrayian/byte_bank_aoop_java/commit/481bc79439d0518bdbcf90f275b99f171ff7983e\">481bc79</a>",
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  },
+  {
+    "id": "midnight-commits",
+    "tier": 0,
+    "desc": "I commit at midnight.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/xrayian/ielts-support-suite/commit/4a9d66e90845c60358d69f681892e9683f30bb1e\">4a9d66e</a>",
+    "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
+  }
+]
