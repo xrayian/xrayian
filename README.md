@@ -24,3 +24,7 @@
   <img height="165" src="https://github-readme-stats-blush-psi-17.vercel.app/api/top-langs?username=xrayian&theme=vue-dark&layout=compact&langs_count=8&card_width=320&count_private=true&hide=css,php" />
   <img height="165" src="https://github-readme-stats-blush-psi-17.vercel.app/api?username=xrayian&theme=vue-dark&show_icons=true&count_private=true&rank_icon=percentile" />
 </p>
+
+
+<!-- my-badges start -->
+<!-- my-badges end -->
