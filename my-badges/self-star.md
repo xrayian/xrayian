@@ -5,7 +5,7 @@
 - <a href="https://github.com/xrayian/PhysicsX">xrayian/PhysicsX</a>
 - <a href="https://github.com/xrayian/world-time-flutter">xrayian/world-time-flutter</a>
 - <a href="https://github.com/xrayian/amar_routine">xrayian/amar_routine</a>
-- <a href="https://github.com/xrayian/xrayian-portfolio-vue-prod">xrayian/xrayian-portfolio-vue-prod</a>
+- <a href="https://github.com/xrayian/xrayian-portfolio-prod-live">xrayian/xrayian-portfolio-prod-live</a>
 - <a href="https://github.com/xrayian/study-progress-tracker">xrayian/study-progress-tracker</a>
 - <a href="https://github.com/xrayian/Life-Simulator">xrayian/Life-Simulator</a>
 
