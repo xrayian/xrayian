@@ -5,10 +5,10 @@
 My favorite commit message words are:
 
 1. add (used 112 times)
-2. added (used 60 times)
-3. update (used 58 times)
-4. api (used 51 times)
-5. data (used 47 times)
+2. update (used 60 times)
+3. added (used 60 times)
+4. api (used 53 times)
+5. updated (used 51 times)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
