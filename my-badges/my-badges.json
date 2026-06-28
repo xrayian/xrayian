@@ -117,12 +117,5 @@
     "desc": "I did 2 sequential fixes.",
     "body": "Commits:\n\n- <a href=\"https://github.com/xrayian/fintech-ai-swe-proj-next-js/commit/afb9749f53916725e533615ed0de093f0df70fa7\">afb9749</a>: fix: correct Finnhub fundamentals field names, add merge-based provider fallback with Roic AI and sector ETFs\n\nFinnhub /stock/metric field names were wrong — roeTTM, revenueGrowthTTMYoy, netProfitMarginTTM, totalDebt/totalEquityQuarterly used instead of non-existent keys. Percentage values divided by 100 for scorecard-utils.\n\nOrchestrator fetchFundamentals now merges Roic AI data into Finnhub results (fills ROE/margin/DE gaps) and cascades on null returns.\n\nRoic AI provider fetches profitability/credit ratios (no key required).\nSector performance replaced broken Finnhub endpoint with 11 SPDR ETF quotes.\nFallback function cascades on null (not just thrown errors).\n- <a href=\"https://github.com/xrayian/fintech-ai-swe-proj-next-js/commit/7cb3d2d7cfe9bf5437572245f45dedada61d4515\">7cb3d2d</a>: fix: correct news sentiment mapping, unicode escapes in JSX, sector empty state, and ScoreCard zeros\n\n- Fix Finnhub news sentiment to match positive/negative/neutral labels (was bullish/bearish)\n- Fix \\u2014/\\u00d7 unicode escapes in JSX text to render as em dash/multiply symbols\n- Return proper N/A state in sector heatmap instead of stale loading\n- Return null from providers when all fundamentals are zero (so fallback logic kicks in)\n- Handle zero metrics gracefully in ScoreCard AI coach (shows N/A)\n- Add searchable filter to copilot scorecard panel\n- Replace hardcoded quick prompts with dynamic context-aware suggestions",
     "image": "https://my-badges.github.io/my-badges/fix-2.png"
-  },
-  {
-    "id": "self-star",
-    "tier": 0,
-    "desc": "I've starred 6 my own repositories.",
-    "body": "- <a href=\"https://github.com/xrayian/PhysicsX\">xrayian/PhysicsX</a>\n- <a href=\"https://github.com/xrayian/world-time-flutter\">xrayian/world-time-flutter</a>\n- <a href=\"https://github.com/xrayian/amar_routine\">xrayian/amar_routine</a>\n- <a href=\"https://github.com/xrayian/xrayian-portfolio-prod-live\">xrayian/xrayian-portfolio-prod-live</a>\n- <a href=\"https://github.com/xrayian/study-progress-tracker\">xrayian/study-progress-tracker</a>\n- <a href=\"https://github.com/xrayian/Life-Simulator\">xrayian/Life-Simulator</a>",
-    "image": "https://my-badges.github.io/my-badges/self-star.png"
   }
 ]
