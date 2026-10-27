@@ -4,7 +4,7 @@ I build software that connects to the real world: mobile apps, realtime backends
 
 Right now I'm a Software Engineer at **ChargeMe** (UIU fellowship), working full-stack on an EV charging platform built on OCPP. Mostly the mobile apps, plus whatever else a startup needs that week. I'm also finishing my B.Sc. in Computer Science and Engineering at United International University in Dhaka (graduating 2027).
 
-Started coding as a hobby in 2019. Stuck around for the challenges and the occasional dopamine hit.
+I started in grade 3, making games in Scratch and using Cheat Engine to flip IGI's ammo instruction from subtract to add, so every shot gave me a bullet instead of costing one. Wrote my first Python "Hello, World" in 2011. Stuck around for the challenges and the occasional dopamine hit.
 
 [Portfolio](https://xrayian.is-a.dev) · [LinkedIn](https://www.linkedin.com/in/xrayian) · [Email](mailto:rbsmahi@gmail.com) · [Devpost](https://devpost.com/rbsmahi)
 
